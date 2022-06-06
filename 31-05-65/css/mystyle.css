@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    width: 100%;
+    height: 400px;
+    background:url(../img/vlrt.gif);
+}
+.nuvbar{
+    width: 100%;
+    height: 50px;
+    background: rgb(180, 152, 121);
+}
+.content{
+    width: 100%;
+    height: 500px;
+    background: rgb(210, 163, 237);
+}
+li{
+    float: left;
+    margin: 15px 25px;
+    list-style-type:none;
+}
+li a{
+    color: #fff;
+    text-decoration:none;
+}
+li a:hover{
+    color: rgba(252, 84, 84, 0.642);
+}
+li1{
+    float: right;
+    margin: 15px 25px;
+    list-style-type:none;
+}
+li1 a{
+    color: #fff;
+    text-decoration:none;
+}
+li1 a:hover{
+    color: rgba(252, 84, 84, 0.642);
+}
